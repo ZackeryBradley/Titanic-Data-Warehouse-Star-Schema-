@@ -1,6 +1,5 @@
 # Titanic-Data-Warehouse-Star-Schema
 
-# Titanic Data Warehouse (Star Schema)
 
 ## 📌 Overview
 This project designs a star schema data model using Titanic dataset features to support analytical queries and reporting.
